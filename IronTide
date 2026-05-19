@@ -1,0 +1,24 @@
+IronTide-WWII-Naval-War/
+├── Assets/
+│   ├── Scripts/
+│   │   ├── Core/
+│   │   │   └── GameManager.cs
+│   │   ├── Player/
+│   │   │   └── PlayerInventory.cs
+│   │   ├── Store/
+│   │   │   └── RealMoneyStore.cs
+│   │   ├── UI/
+│   │   │   └── LoadingScreen.cs
+│   │   ├── Editor/
+│   │   │   └── CIWorkflow.cs
+│   ├── Scenes/
+│   │   └── MainMenuScene.unity
+│   │   └── SinglePlayerScene.unity
+│   │   └── MultiplayerScene.unity
+│   │   └── LoadingScene.unity
+├── .github/
+│   └── workflows/
+│       └── unity-build.yml
+├── README.md
+├── LICENSE
+├── .gitignore
